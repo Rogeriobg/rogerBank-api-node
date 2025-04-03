@@ -20,5 +20,8 @@
     "mongoose": "^8.12.1",
     "pdfkit": "^0.16.0",
     "rogerbank-backend": "file:"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
